@@ -1,0 +1,3 @@
+COURSE: Ansible # equal to COURSE=Ansible in shell, shell we refer $VAR or ${VAR}
+DURATION: 10HR
+TRAINER: Sivakumar
